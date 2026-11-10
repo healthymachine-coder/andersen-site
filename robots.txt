@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andersenmovingfl.com/sitemap-index.xml
